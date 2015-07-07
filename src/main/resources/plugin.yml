@@ -1,0 +1,8 @@
+name: HeadSelector
+version: 0.1
+description: A plugin to make getting custom player heads easy!
+author: [Senmori,pablo67340]
+main: net.senmori.headselector.HeadSelector
+commands:
+    hs:
+        description: Main Head Selector command
